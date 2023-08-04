@@ -1,0 +1,97 @@
+section{
+    display: fle;
+}
+main{
+    width: 80%;
+    border: 1px; 
+    padding: 20px;
+    border-radius: 5px;
+    position: absolute;
+    top: 59%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    background-color: aqua;
+}
+.page1{
+    background-color: brown;
+    width: 80%;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+}
+.page2{
+    display: flex;
+    background-color: yellowgreen;
+    width: 80%;
+    border-radius: 5px;
+    padding: 20px;
+    display: none;
+}
+.page3{
+    background-color: darkorange;
+    width: 80%;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    display: none;
+}    
+input{
+    border: none;
+    width: 70%;
+    margin: 5px;
+    margin-bottom: 5px;
+    border-bottom: 3px solid greenyellow;
+}
+.l1{
+    display: flex;
+}
+.l{
+    display: flex;
+}
+.d{
+    width: 100px;
+}
+.e{
+    width: 100px;
+}
+.B{
+    display: flex;
+}
+.b1{
+    margin: 20px;
+}
+.b2{
+    margin: 20px;
+}
+.b3{
+    margin: 20px;
+}
+
+.b11{
+    margin: 0px;
+}
+.b22{
+    margin: 0px;
+}
+.b33{
+    margin: 0px;
+}
+.b111{
+    margin: 5px;
+
+}
+.b222{
+    
+    margin: 2px;
+    
+    
+}
+.b333{
+    margin: 5px;
+    
+}
+.v{
+    display: flex;
+}
